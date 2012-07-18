@@ -13,7 +13,8 @@ You can see examples of
  * AddressBook
  * Add a Contact in the AddressBook
 
-<img src="RubyMotion_APISampler/blob/master/app_screenshot.png" />
+![screenshot](https://github.com/seanlilmateus/RubyMotion_APISampler/blob/master/app_screenshot.png?raw=true "Screenshot")
+
 I hope this will serve as a tutorial and reference for you to add these capabilities in __YOUR__ projects.
 
 
